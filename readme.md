@@ -1,6 +1,5 @@
 ## Kyoudai Discord Bot
 #### Kyoudai Bot 兄弟 | Discord Kyoudai [Brothers] Bot
-
 ___
 ##### **About:**
 **Kyoudai Discord Bot** is designed to work in tandem with media bots in Discord servers, providing karaoke-like functionality including capturing videos with lyrics or subtitles, display of capture with scrolling text, along with built-in search and random video selection options. 
