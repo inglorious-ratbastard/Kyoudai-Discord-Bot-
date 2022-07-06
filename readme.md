@@ -1,8 +1,11 @@
 ## Kyoudai Discord Bot
+![Kyoudai](https://cdn.discordapp.com/app-icons/942304490743296022/c2c5f180fa49bb682a229973d25f5b8e.png?size=256)<br>
+![DiscordJS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 #### Kyoudai Bot 兄弟 | Discord Kyoudai [Brothers] Bot
 ___
-##### **About:**
-**Kyoudai Discord Bot** is designed to work in tandem with media bots in Discord servers, providing karaoke-like functionality including capturing videos with lyrics or subtitles, display of capture with scrolling text, along with built-in search and random video selection options. 
+**Kyoudai Discord Bot** is designed to work in tandem with media bots in **Discord** servers, providing karaoke-like functionality including capturing videos with lyrics or subtitles, display of capture with scrolling text, along with built-in search and random video selection options. 
 
 ##### **Kyoudai Bot Features:**
 * Retrieve Music Video and Lyrics
@@ -37,12 +40,13 @@ ___
 ___
 ##### **Reporting Bugs or Issues:**
 If you would like to report a **Bug** or **Issue** in this project feel free to do so under the **Issues** tab or contact me directly about any major concerns. Ideas for new features are also welcomed. Please address these by matters by sending a **Pull Request** as they will be reviewed for consideration. 
+##### Your contribution will be reviewed and considered for merge into Main or a separate branch.<br> Thank you for assisting in the development and/or advancement of this project.
 ___
 ##### **Source and License:**
 **Kyoudai Discord Bot** was created by [Javier Yzaguirre](https://github.com/inglorious-ratbastard) and is considered free and open source to use as reference for those wanting to create their own bot or would contribute to this project. 
 ___
 ##### **External Resources:**
 [DiscordJS](https://discord.js.org/#/docs/discord.js/stable/general/welcome)<br>
-[Discord Developer Portal](https://discord.com/developers/docs/intro)<br>
+[ExpressJS](https://expressjs.com/en/api.html)<br>
 [Repl.it](https://repl.it/)   
 [UptimeRobot](https://uptimerobot.com/)  
